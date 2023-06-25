@@ -5,7 +5,7 @@
 | Name | Link |
 | --- | --- |
 | Overleaf link with edit access | https://www.overleaf.com/4532852515kqsvgnfphhfj |
-| Presentation slides (open access to anyone with the link) | Link |
+| Presentation slides (open access to anyone with the link) | https://docs.google.com/presentation/d/1m-XCmvzghK9MPltx8vI7hGrW3T7RScEx0RlFUzbIMos/edit?usp=sharing |
 | Unlisted youtube video link | Link |
 
 
