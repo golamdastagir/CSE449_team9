@@ -4,7 +4,7 @@
 | Name | Link |
 | --- | --- |
 | Link to unlisted YouTube video | [YouTube]() |
-| Two public links to the Concept Map | [PDF](https://drive.google.com/file/d/1t4jKv0mIKmh51ZSE2du-uKiBY05D7qz6/view?usp=sharing) <br> [Original Format(Draw.io)](https://drive.google.com/file/d/1ZGAHocwN4HKLDBXowqOOi4qrRUDBjj_H/view?usp=sharing) |
+| Two public links to the Concept Map | [PDF](https://drive.google.com/file/d/1coKrtAuGTHYm9WjhTkRLb6ElDAcg6nor/view?usp=sharing) <br> [Original Format(Draw.io)](https://drive.google.com/file/d/1ZGAHocwN4HKLDBXowqOOi4qrRUDBjj_H/view?usp=sharing) |
 | <b>Book Name</b>: Principles of Distributed Computing  <br> <b>Author</b>: Roger Wattenhofer <br> <b>Publisher</b>: Springer| [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf) |
 | Chapter 22 | [Game Theory](https://drive.google.com/file/d/1HPd5fqR8j7ITE98DGX_LQ8-5JZ8G5jDp/view?usp=sharing)|
 
