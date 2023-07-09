@@ -5,8 +5,8 @@
 | --- | --- |
 | Link to unlisted YouTube video | [YouTube]() |
 | Two public links to the Concept Map | [PDF]() <br> [Original Format]() |
-| Book | Name: [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf) <br> Author: Roger Wattenhofer <br> Publisher: Springer|
-| Chapter | [Game Theory]()|
+| <b>Book Name</b>: Principles of Distributed Computing  <br> <b>Author</b>: Roger Wattenhofer <br> <b>Publisher</b>: Springer| [Principles of Distributed Computing](https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf) |
+| Chapter 22 | [Game Theory]()|
 
 <br>
 
