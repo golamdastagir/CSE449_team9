@@ -4,8 +4,8 @@
 
 | Name | Link |
 | --- | --- |
-| Overleaf link with edit access | [Link](https://www.overleaf.com/4532852515kqsvgnfphhfj) |
-| Unlisted youtube video link | [Link](https://www.youtube.com/) |
+| Overleaf link with edit access | [Anyone can edit](https://www.overleaf.com/4532852515kqsvgnfphhfj) |
+| Unlisted youtube video link | [Youtube](https://www.youtube.com/) |
 
 
 
