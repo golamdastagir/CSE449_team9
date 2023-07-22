@@ -1,5 +1,15 @@
 # CSE449 - Summer 2023 - Team9
 
+| Name | Link |
+| :---: | :---: |
+| Submission 1 | [Research Project Topic Team presentation](https://github.com/golamdastagir/CSE449_team9/tree/main/submission1) |
+| Submission 2 | [Individual presentation of a Paper](https://github.com/golamdastagir/CSE449_team9/tree/main/submission2) |
+| Submission 3 | [Team report on a unique Book Chapter](https://github.com/golamdastagir/CSE449_team9/tree/main/submission3) |
+| Submission 4 | [Paper 1st draft with Literature Survey, Collected Data, Proposed Methodology](https://github.com/golamdastagir/CSE449_team9/tree/main/submission4) |
+| Submission 5 | [Pending]() |
+
+
+
 ## Team Members:
 
 | ID | Name |
