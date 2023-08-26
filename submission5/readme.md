@@ -1,12 +1,12 @@
-# Decentralized Federated Learning for Real-Time Traffic Prediction in Smart Cities
+# Decentralized Federated Learning for Real-time Traffic Prediction in Smart Cities
 
 ### Team Number: 09
 
 | Name | Link |
 | --- | --- |
+| Overleaf link | [Anyone can view](https://www.overleaf.com/read/mjcjmhkwvjwn) |
 | Overleaf link with edit access | [Anyone can edit](https://www.overleaf.com/4532852515kqsvgnfphhfj) |
 | Unlisted youtube video link | [Youtube](https://youtu.be/) |
-
 
 
 ### Team Members:
