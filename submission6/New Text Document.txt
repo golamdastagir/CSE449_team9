@@ -1,6 +1,0 @@
-Apache Spark is a powerful framework or engine for running large data engineering, data science, and machine learning tasks on node or clustered servers. It uses in-memory caching to speed up query execution when processing large data clusters. Furthermore, for data processing needs, Spark provides a variety of libraries and tools such as batch processing, machine learning, and so on.
-
-
-
-
-Apache Spark can assist in distributing and parallelizing computations across several data sources or locations while protecting data privacy in the context of federated learning for real-time traffic prediction. Federated learning enables collaborative model training across scattered data sources, which is especially helpful when working with private or current data. Machine learning libraries like MLlib, offered by Apache Spark, feature implementations of several machine learning algorithms, such as k-NN, Decision Trees, and RNN. Utilizing a cluster of computers, Spark MLlib enables the scaling of machine learning activities to handle big datasets. With the help of Spark's DataFrame API we can preprocess the data and feature engineer before applying machine learning algorithms.
