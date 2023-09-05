@@ -6,8 +6,7 @@
 | --- | --- |
 | Overleaf link | [Anyone can view](https://www.overleaf.com/read/mjcjmhkwvjwn) |
 | Overleaf link with edit access | [Anyone can edit](https://www.overleaf.com/4532852515kqsvgnfphhfj) |
-| Slide(View Access) | [Slide](https://docs.google.com/presentation/d/1jipwxpKw6PKSe1z6UwY4ozn2qAJ8-zryu8nzB7DXd8Q/edit?usp=sharing) |
-| Unlisted youtube video link | [Youtube](https://youtu.be/) |
+| Unlisted youtube video link | [Youtube](https://youtu.be/O8THrRHSw3U) |
 
 
 
