@@ -4,6 +4,7 @@
 
 | Name | Link |
 | --- | --- |
+| Overleaf link | [Anyone can view](https://www.overleaf.com/read/mjcjmhkwvjwn) |
 | Overleaf link with edit access | [Anyone can edit](https://www.overleaf.com/4532852515kqsvgnfphhfj) |
 | Unlisted youtube video link | [Youtube](https://youtu.be/Z5Hi5H_xNHM) |
 
